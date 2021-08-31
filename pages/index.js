@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <Box>
-        <P>Welcome Uriel Page</P>
+        <P>Welcome Uriel Website</P>
       </Box>
     </div>
   );
